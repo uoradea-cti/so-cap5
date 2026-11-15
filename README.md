@@ -19,3 +19,4 @@
 | `makefile` | 3 – opțiunile `prg`, `bibl`, `clean` |
 
 Rulare: `make prg`, apoi `./prg`.
+# so-cap5
